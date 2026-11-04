@@ -3,6 +3,14 @@
     <channel>
         <title>wdrop</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Wed, 04 Nov 2026 23:38:19 +0800</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v0.1.1/wdrop-0.1.1.dmg" length="10556506" type="application/octet-stream" sparkle:edSignature="dtv36M/0P0sDT2EaZaHwbjgzG+qIYQeW8/A4FHPnR3kaIewwyOdWIfM49AOmTbB0Pm6M375gkOWua8t21WqUDA=="/>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Wed, 04 Nov 2026 22:55:09 +0800</pubDate>
             <sparkle:version>1</sparkle:version>
