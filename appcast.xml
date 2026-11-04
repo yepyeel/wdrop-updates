@@ -2,5 +2,13 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>wdrop</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 04 Nov 2026 22:55:09 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v0.1.0/wdrop-0.1.0.dmg" length="10521800" type="application/octet-stream" sparkle:edSignature="2HMn+yfx8Q5otSjtug3RlIv1+UHSdCVtlnnZ3BPgKbktYRbXoVaN1Voc2Ovu15KSs+VpZcIwewMAUUto1k9eDg=="/>
+        </item>
     </channel>
 </rss>
