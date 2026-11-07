@@ -3,6 +3,18 @@
     <channel>
         <title>wdrop</title>
         <item>
+            <title>wdrop 1.2.3</title>
+            <pubDate>Sat, 07 Nov 2026 20:38:30 +0800</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description xml:lang="zh-Hans"><![CDATA[<h3>改进</h3>
+<ul><li>重开底部栏同一标签时保留搜索和筛选</li><li>底部栏和管理窗口关闭30秒后自动回收内存</li></ul>]]></description>
+            <description xml:lang="en"><![CDATA[<h3>Changed</h3>
+<ul><li>Reopening the same Sheet tab preserves your search and filters</li><li>Memory is reclaimed 30 seconds after closing both windows</li></ul>]]></description>
+            <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v1.2.3-build.10/wdrop-1.2.3.dmg" length="11328584" type="application/octet-stream" sparkle:edSignature="tWqW3fyQO2+MSxSYsJ0DNz+iHz28UraSpb07w3SmoT7Rc5Dm0r+a6CKF5wrre07pQiVmdt41w4v6oky2899qDw=="/>
+        </item>
+        <item>
             <title>wdrop 1.2.2</title>
             <pubDate>Sat, 07 Nov 2026 15:56:08 +0800</pubDate>
             <sparkle:version>9</sparkle:version>
@@ -29,18 +41,6 @@
             <description xml:lang="en"><![CDATA[<h3>Changed</h3>
 <ul><li>App icon curves and shadows are clearer, with a softer dot pattern</li></ul>]]></description>
             <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v1.2.1-build.8/wdrop-1.2.1.dmg" length="11126284" type="application/octet-stream" sparkle:edSignature="K0q6Swoqd/siJlk8+T0w+X4+2QhCIh6j4k5mVBtPgF1TXpm3KpPmvD0vvOlvGwx9FBK1nOEPxinieKV6tMnWAA=="/>
-        </item>
-        <item>
-            <title>wdrop 1.2.0</title>
-            <pubDate>Fri, 06 Nov 2026 14:24:21 +0800</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description xml:lang="zh-Hans"><![CDATA[<h3>新增</h3>
-<ul><li>通用设置可显示或隐藏菜单栏图标，隐藏后再次打开应用可恢复</li></ul>]]></description>
-            <description xml:lang="en"><![CDATA[<h3>Added</h3>
-<ul><li>Hide the menu bar icon in General settings, then reopen wdrop to access the toggle</li></ul>]]></description>
-            <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v1.2.0-build.7/wdrop-1.2.0.dmg" length="11098725" type="application/octet-stream" sparkle:edSignature="kSRQWd/PsLTbLJm2ILeKeW47aK86/I+t9iTHH+S4LngH0ynBlFOe/cEBLT+Il3I/eoCN4RZAWvJ5GWRUCKkgCA=="/>
         </item>
     </channel>
 </rss>
