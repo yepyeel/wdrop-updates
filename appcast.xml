@@ -3,6 +3,18 @@
     <channel>
         <title>wdrop</title>
         <item>
+            <title>wdrop 1.3.0</title>
+            <pubDate>Mon, 09 Nov 2026 22:24:37 +0800</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description xml:lang="zh-Hans"><![CDATA[<h3>新增</h3>
+<ul><li>Agent 接入可一键配置、逐个授权读写并撤销会话权限</li></ul>]]></description>
+            <description xml:lang="en"><![CDATA[<h3>Added</h3>
+<ul><li>Configure MCP clients in one click, authorize agents individually, and revoke access for active sessions</li></ul>]]></description>
+            <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v1.3.0-build.13/wdrop-1.3.0.dmg" length="12446649" type="application/octet-stream" sparkle:edSignature="gMtYM4jn80NX3jHBQh5S8XaiJPxKal1tFYIwn87OcVb/Z7PvU87b8skz1t6ng5IWm0Bf7vgi7ZJaaAAjrV5fCA=="/>
+        </item>
+        <item>
             <title>wdrop 1.2.5</title>
             <pubDate>Mon, 09 Nov 2026 11:31:50 +0800</pubDate>
             <sparkle:version>12</sparkle:version>
@@ -33,18 +45,6 @@
 <h3>Fixed</h3>
 <ul><li>The running app no longer shows an outdated icon</li><li>Repeated image previews no longer keep increasing memory use</li></ul>]]></description>
             <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v1.2.4-build.11/wdrop-1.2.4.dmg" length="11443623" type="application/octet-stream" sparkle:edSignature="q3jBtRArSnKd4CviQk+c6ClcHaHy16bEAJxgwn4KVApv/M6VOu1at8731q5yQvavnJNZPyjlpvtez+BbVMxPBg=="/>
-        </item>
-        <item>
-            <title>wdrop 1.2.3</title>
-            <pubDate>Sat, 07 Nov 2026 20:38:30 +0800</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description xml:lang="zh-Hans"><![CDATA[<h3>改进</h3>
-<ul><li>重开底部栏同一标签时保留搜索和筛选</li><li>底部栏和管理窗口关闭30秒后自动回收内存</li></ul>]]></description>
-            <description xml:lang="en"><![CDATA[<h3>Changed</h3>
-<ul><li>Reopening the same Sheet tab preserves your search and filters</li><li>Memory is reclaimed 30 seconds after closing both windows</li></ul>]]></description>
-            <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v1.2.3-build.10/wdrop-1.2.3.dmg" length="11328584" type="application/octet-stream" sparkle:edSignature="tWqW3fyQO2+MSxSYsJ0DNz+iHz28UraSpb07w3SmoT7Rc5Dm0r+a6CKF5wrre07pQiVmdt41w4v6oky2899qDw=="/>
         </item>
     </channel>
 </rss>
