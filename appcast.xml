@@ -3,6 +3,18 @@
     <channel>
         <title>wdrop</title>
         <item>
+            <title>wdrop 1.3.4</title>
+            <pubDate>Fri, 20 Nov 2026 10:24:59 +0800</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description xml:lang="zh-Hans"><![CDATA[<h3>修复</h3>
+<ul><li>在底部栏搜索框中，⌘⌫ 和 ⌘Z 只编辑搜索词</li></ul>]]></description>
+            <description xml:lang="en"><![CDATA[<h3>Fixed</h3>
+<ul><li>⌘⌫ and ⌘Z now edit only the search text in the Sheet search field</li></ul>]]></description>
+            <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v1.3.4-build.17/wdrop-1.3.4.dmg" length="12578793" type="application/octet-stream" sparkle:edSignature="ibQpE+2f+mCRT6dNS9zX2fpYQ/Nzs6LUBaEnNxF1xaCIpi1mmz7SBpKwbX43Si7EzIkX6Cg5RB3CO1xuOUe0BA=="/>
+        </item>
+        <item>
             <title>wdrop 1.3.3</title>
             <pubDate>Wed, 11 Nov 2026 18:19:49 +0800</pubDate>
             <sparkle:version>16</sparkle:version>
@@ -25,18 +37,6 @@
             <description xml:lang="en"><![CDATA[<h3>Changed</h3>
 <ul><li>Redesigned the management window sidebar and Settings pages, with usage breakdown in Storage</li></ul>]]></description>
             <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v1.3.2-build.15/wdrop-1.3.2.dmg" length="12572209" type="application/octet-stream" sparkle:edSignature="atN5SmEGePYPT8DN2DsGcc3uhK99L7n1NWpghBnIQSSeEP93ewY+aBx6n8C4YO08a/B/eq7XayuUEN80rYf6AQ=="/>
-        </item>
-        <item>
-            <title>wdrop 1.3.1</title>
-            <pubDate>Mon, 09 Nov 2026 22:51:50 +0800</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description xml:lang="zh-Hans"><![CDATA[<h3>改进</h3>
-<ul><li>点击整行标题即可展开或收起 Agent 权限和排除名单</li></ul>]]></description>
-            <description xml:lang="en"><![CDATA[<h3>Changed</h3>
-<ul><li>Expand or collapse Agent permissions and exclusions by clicking anywhere on their heading rows</li></ul>]]></description>
-            <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v1.3.1-build.14/wdrop-1.3.1.dmg" length="12451332" type="application/octet-stream" sparkle:edSignature="BsZUiyr5cTc/qQgbeP067Azk4uuyl1XxgQOHWTnD/7ZQRC6lvOR7gQ/uJ2EPkfIqAbJrtMK2GcO5txQvb0wZDQ=="/>
         </item>
     </channel>
 </rss>
