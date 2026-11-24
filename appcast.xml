@@ -3,6 +3,22 @@
     <channel>
         <title>wdrop</title>
         <item>
+            <title>wdrop 1.3.6</title>
+            <pubDate>Tue, 24 Nov 2026 22:24:31 +0800</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.3.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description xml:lang="zh-Hans"><![CDATA[<h3>新增</h3>
+<ul><li>管理窗口新增筛选菜单、空格查看、预览面板和底部批量操作栏</li><li>存储空间页新增清理缓存按钮，点击最大条目可直接预览</li></ul>
+<h3>改进</h3>
+<ul><li>独立查看新增色值对比度、网页详情、长文复制和图片透明底切换</li><li>改进彻底删除确认、Agent 授权范围倒计时和首次引导完成页</li><li>改进底部栏多选条、顺序角标、文件堆样式、投放底栏与标签栏</li></ul>]]></description>
+            <description xml:lang="en"><![CDATA[<h3>Added</h3>
+<ul><li>Added filters, Space preview, a preview pane, and a selection bar in Management</li><li>Clear thumbnail and expired export caches from Storage, and preview largest items</li></ul>
+<h3>Changed</h3>
+<ul><li>Enhanced item viewer with color contrast, link details, full-text copy, and transparency toggle</li><li>Improved destructive confirmations, Agent approval scope and countdown, and onboarding finish screen</li><li>Refined Sheet multi-select bar, order badges, stack styling, drop footer, and tabs</li></ul>]]></description>
+            <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v1.3.6-build.19/wdrop-1.3.6.dmg" length="13077245" type="application/octet-stream" sparkle:edSignature="w+Lka7ucWF9L+ahuQRoiokUL756PQ9sZC7CAOX9dhvy5FVbXWQN1cDYtHViKI30qXnBVHZX21qfhfpBQk1BwAQ=="/>
+        </item>
+        <item>
             <title>wdrop 1.3.5</title>
             <pubDate>Fri, 20 Nov 2026 11:32:23 +0800</pubDate>
             <sparkle:version>18</sparkle:version>
@@ -25,18 +41,6 @@
             <description xml:lang="en"><![CDATA[<h3>Fixed</h3>
 <ul><li>⌘⌫ and ⌘Z now edit only the search text in the Sheet search field</li></ul>]]></description>
             <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v1.3.4-build.17/wdrop-1.3.4.dmg" length="12578793" type="application/octet-stream" sparkle:edSignature="ibQpE+2f+mCRT6dNS9zX2fpYQ/Nzs6LUBaEnNxF1xaCIpi1mmz7SBpKwbX43Si7EzIkX6Cg5RB3CO1xuOUe0BA=="/>
-        </item>
-        <item>
-            <title>wdrop 1.3.3</title>
-            <pubDate>Wed, 11 Nov 2026 18:19:49 +0800</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description xml:lang="zh-Hans"><![CDATA[<h3>改进</h3>
-<ul><li>从左上角主菜单打开底部栏、进入设置或检查更新</li></ul>]]></description>
-            <description xml:lang="en"><![CDATA[<h3>Changed</h3>
-<ul><li>Open the Sheet, access settings, or check for updates from the macOS app menu</li></ul>]]></description>
-            <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v1.3.3-build.16/wdrop-1.3.3.dmg" length="12578306" type="application/octet-stream" sparkle:edSignature="+C5iObsf8EAGzNYYQLjnn1N0wSYaWoYm2sGa3g+Kgh09umDETSLK76QhjcvY6pm7J6GYv0/PaEH0vEVlsMeuBQ=="/>
         </item>
     </channel>
 </rss>
