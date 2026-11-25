@@ -3,6 +3,18 @@
     <channel>
         <title>wdrop</title>
         <item>
+            <title>wdrop 1.3.8</title>
+            <pubDate>Wed, 25 Nov 2026 12:59:34 +0800</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.3.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description xml:lang="zh-Hans"><![CDATA[<h3>改进</h3>
+<ul><li>改进底部栏多选条样式，快捷键提示和悬停反馈更清晰</li></ul>]]></description>
+            <description xml:lang="en"><![CDATA[<h3>Changed</h3>
+<ul><li>Refined the Sheet multi-select bar with cleaner shortcuts and hover highlights</li></ul>]]></description>
+            <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v1.3.8-build.21/wdrop-1.3.8.dmg" length="13090252" type="application/octet-stream" sparkle:edSignature="mLUR0hitFgo5DZhuhT1zYvLywwy1iP/9dtNx9Rv7JQrCcisSlKOejG/ePTsWho7B8HcwoXOMmtspsHYZpIZdBA=="/>
+        </item>
+        <item>
             <title>wdrop 1.3.7</title>
             <pubDate>Tue, 24 Nov 2026 23:17:40 +0800</pubDate>
             <sparkle:version>20</sparkle:version>
@@ -29,18 +41,6 @@
 <h3>Changed</h3>
 <ul><li>Enhanced item viewer with color contrast, link details, full-text copy, and transparency toggle</li><li>Improved destructive confirmations, Agent approval scope and countdown, and onboarding finish screen</li><li>Refined Sheet multi-select bar, order badges, stack styling, drop footer, and tabs</li></ul>]]></description>
             <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v1.3.6-build.19/wdrop-1.3.6.dmg" length="13077245" type="application/octet-stream" sparkle:edSignature="w+Lka7ucWF9L+ahuQRoiokUL756PQ9sZC7CAOX9dhvy5FVbXWQN1cDYtHViKI30qXnBVHZX21qfhfpBQk1BwAQ=="/>
-        </item>
-        <item>
-            <title>wdrop 1.3.5</title>
-            <pubDate>Fri, 20 Nov 2026 11:32:23 +0800</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description xml:lang="zh-Hans"><![CDATA[<h3>修复</h3>
-<ul><li>底部栏两侧的阴影现在能完整显示</li></ul>]]></description>
-            <description xml:lang="en"><![CDATA[<h3>Fixed</h3>
-<ul><li>The shadow now extends fully along both sides of the Sheet</li></ul>]]></description>
-            <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v1.3.5-build.18/wdrop-1.3.5.dmg" length="12578717" type="application/octet-stream" sparkle:edSignature="iX3DOi13KwLdIfWiBV1K1sIHQv/ZmE7uEFU4xU835Ha0jR7gL5SAlHPc2G/NxZtsKNMeesHzcU0ilEIjtVDJBw=="/>
         </item>
     </channel>
 </rss>
