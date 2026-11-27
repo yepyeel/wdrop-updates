@@ -3,6 +3,22 @@
     <channel>
         <title>wdrop</title>
         <item>
+            <title>wdrop 1.3.9</title>
+            <pubDate>Fri, 27 Nov 2026 18:04:07 +0800</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.3.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description xml:lang="zh-Hans"><![CDATA[<h3>改进</h3>
+<ul><li>查看窗口的「用默认 App 打开」按钮不再显示两层轮廓</li><li>查看窗口按原格式显示富文本，包括网页复制的内容</li><li>底部栏多选条改用中性灰底，已选数量更醒目</li></ul>
+<h3>修复</h3>
+<ul><li>粘贴为纯文本和搜索时，不再漏掉随附件或图片一起复制的文字</li></ul>]]></description>
+            <description xml:lang="en"><![CDATA[<h3>Changed</h3>
+<ul><li>The Open with Default App button in the View window no longer shows a double outline</li><li>The View window now shows rich text in its original formatting, including copied web content</li><li>Sheet selection bar now uses a neutral gray style with a clearer count</li></ul>
+<h3>Fixed</h3>
+<ul><li>Plain text paste and search no longer miss text copied with attachments or images</li></ul>]]></description>
+            <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v1.3.9-build.22/wdrop-1.3.9.dmg" length="13268646" type="application/octet-stream" sparkle:edSignature="O9KwLJr4cnHCyMSRZ/nD4pgC3/SW4LVWTD3L3dnuB3Ty5wWkQ2ezUWTjwjWWpl5WWBsddD4cuUR1MheV2iiaBQ=="/>
+        </item>
+        <item>
             <title>wdrop 1.3.8</title>
             <pubDate>Wed, 25 Nov 2026 12:59:34 +0800</pubDate>
             <sparkle:version>21</sparkle:version>
@@ -25,22 +41,6 @@
             <description xml:lang="en"><![CDATA[<h3>Changed</h3>
 <ul><li>Keyboard shortcuts are easier to read when selecting multiple items in the Sheet</li></ul>]]></description>
             <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v1.3.7-build.20/wdrop-1.3.7.dmg" length="13078403" type="application/octet-stream" sparkle:edSignature="Lqr+P1gT6HOX5ObEsPEODh/BGoHxY/busMHbhs9GFxzZ++dQBwt6j41rPmxFMn8tuS2+R0OYsC30bU0ZGaTfDA=="/>
-        </item>
-        <item>
-            <title>wdrop 1.3.6</title>
-            <pubDate>Tue, 24 Nov 2026 22:24:31 +0800</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>1.3.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description xml:lang="zh-Hans"><![CDATA[<h3>新增</h3>
-<ul><li>管理窗口新增筛选菜单、空格查看、预览面板和底部批量操作栏</li><li>存储空间页新增清理缓存按钮，点击最大条目可直接预览</li></ul>
-<h3>改进</h3>
-<ul><li>独立查看新增色值对比度、网页详情、长文复制和图片透明底切换</li><li>改进彻底删除确认、Agent 授权范围倒计时和首次引导完成页</li><li>改进底部栏多选条、顺序角标、文件堆样式、投放底栏与标签栏</li></ul>]]></description>
-            <description xml:lang="en"><![CDATA[<h3>Added</h3>
-<ul><li>Added filters, Space preview, a preview pane, and a selection bar in Management</li><li>Clear thumbnail and expired export caches from Storage, and preview largest items</li></ul>
-<h3>Changed</h3>
-<ul><li>Enhanced item viewer with color contrast, link details, full-text copy, and transparency toggle</li><li>Improved destructive confirmations, Agent approval scope and countdown, and onboarding finish screen</li><li>Refined Sheet multi-select bar, order badges, stack styling, drop footer, and tabs</li></ul>]]></description>
-            <enclosure url="https://github.com/yepyeel/wdrop-updates/releases/download/v1.3.6-build.19/wdrop-1.3.6.dmg" length="13077245" type="application/octet-stream" sparkle:edSignature="w+Lka7ucWF9L+ahuQRoiokUL756PQ9sZC7CAOX9dhvy5FVbXWQN1cDYtHViKI30qXnBVHZX21qfhfpBQk1BwAQ=="/>
         </item>
     </channel>
 </rss>
